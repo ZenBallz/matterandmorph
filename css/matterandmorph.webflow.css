@@ -1222,6 +1222,7 @@ li {
 }
 
 .project-info-link {
+  background-color: transparent; 
   border: 1px solid var(--white);
   color: var(--white);
   text-align: left;
